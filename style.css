@@ -1,0 +1,106 @@
+body{
+    box-sizing: border-box;
+    margin: 0%;
+}
+.main_section_all{
+    background-image: url(header-bg);
+    display: flex;
+}
+.button{
+    color: beige;
+    text-decoration: none;
+    background-image: linear-gradient(to right,pink,#ff47a0);
+    padding: 3px;
+}
+
+.left{
+    width: 37%;
+    
+}
+
+.left img{
+    width: 100%;
+}
+
+.text1{
+    margin-left: 13%;
+    margin-top: 10%;
+    
+}
+
+.text2{
+    margin-top: 10%;
+   margin-left: 7%;
+}
+.img1{
+    padding-top:3%;
+}
+
+.img2{
+    margin-left: 13%;
+    margin-top: 2%;
+}
+
+
+.rakib{
+    color: palevioletred;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+
+.lastsection{
+   
+    display: flex;
+    justify-content: space-evenly;
+}
+.work{
+    width: 23%;
+}
+.work img{
+    width: 100%;
+}
+.bg3{
+background-image: url(latest-work-bg.png);
+  
+}
+.bg2{
+ margin-bottom: 10%;
+ background-image: url(biography-bg.png);
+}
+.bg1{
+    background-image: url(header-bg.png);
+}
+.last{
+    
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
+.founder{
+    margin: 0%;
+     font-size: small;
+   opacity: 70%;
+}
+.bruce{
+    margin-bottom: 0%;
+}
+.f{
+    text-align: center;
+
+    
+}
+
+.ll{
+    margin-right: 30%;
+    margin-left:30%
+
+}
+.complete{
+    margin-top: 5%;
+    width: 400px;
+    margin-left: 35%;
+    padding: 0.5px;
+    margin-bottom: 10%;
+    background-color: #ff47a0;
+    color: beige;
+}
